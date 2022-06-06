@@ -1,0 +1,6 @@
+.DS_Store
+
+# Javascript
+node_modules
+dist
+.parcel-cache
